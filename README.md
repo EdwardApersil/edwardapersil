@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm a front-end developer
 -------------------------
 
-I have been learning to code for about a year now. I love building highly scalable products with great technological tools for clients. I have worked with startups and open-source projects.
+I build software products with React, Typyscript, NodeJs AWS
 
 *   🌍  I'm based in Kumasi, Ghana
 *   ✉️  You can contact me at [edwardapersil7@gmail.com](mailto:edwardapersil7@gmail.com)
-*   🧠  I'm learning Angular, Java, NodeJs
+*   🧠  I build with React, Typescript
 *   🤝  I'm open to collaborating on Interesting projects<a href="https://www.twitter.com/apersil_edward" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/apersil_edward?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a>### Skills 
