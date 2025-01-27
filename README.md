@@ -6,7 +6,7 @@ I'm a front-end developer
 
 I build software products with React, Typyscript, NodeJs AWS
 
-*   🌍  I'm based in Kumasi, Ghana
+*   🌍  I'm based in Accra, Ghana
 *   ✉️  You can contact me at [edwardapersil7@gmail.com](mailto:edwardapersil7@gmail.com)
 *   🧠  I build with React, Typescript
 *   🤝  I'm open to collaborating on Interesting projects<a href="https://www.twitter.com/apersil_edward" target="_blank" rel="noreferrer"><img
