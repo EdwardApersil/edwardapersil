@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Edward Apersil
 ======================================================================================================================================
 
-I'm a front-end developer
+I'am a software developer ( frontend )
 -------------------------
 
-I build software products with React, Typyscript, NodeJs AWS
+I build software products with React, Typyscript, NodeJs, and AWS
 
 *   🌍  I'm based in Accra, Ghana
 *   ✉️  You can contact me at [edwardapersil7@gmail.com](mailto:edwardapersil7@gmail.com)
